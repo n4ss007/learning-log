@@ -1,6 +1,6 @@
 print("DNA SEQUENCE ANALYSIS")
 
-seq = input("input your seq : ")
+seq = input("input your sequence : ")
 x = len(seq)
 sequence = seq.upper()
 g = sequence.count("G")

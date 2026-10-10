@@ -1,5 +1,5 @@
 
-print("SAMPLE INVENTORY - LAB 201")
+print("SAMPLE INVENTORY - LAB 206")
 
 SID = input("SAMPLE ID: ")
 STY = input("Sample type: ")
